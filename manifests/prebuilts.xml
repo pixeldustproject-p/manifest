@@ -5,5 +5,11 @@
            fetch="https://gitlab.com/spezi77/" />
 
   <!-- Prebuilts -->
+  <project path="vendor/googleapps" name="vendor_googleapps" remote="glab" revision="p" />
+  <project path="vendor/qcom/sdclang-6.0" name="vendor_qcom_sdclang-6.0" remote="pdp" />
+  <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="pdp" />
+  <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="aarch64-linux-android-4.9" remote="glab" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="arm-linux-androideabi-4.9" remote="glab" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-8.0" name="aarch64-8.0" remote="glab" revision="linaro" />
 
 </manifest>
