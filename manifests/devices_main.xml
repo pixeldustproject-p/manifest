@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="gitlab"
-           fetch="https://gitlab.com/spezi77/" />
-
   <!-- Device & Kernel -->
+  <project path="device/google/marlin" name="android_device_google_marlin" remote="pdp" />
+  <project path="kernel/google/marlin" name="hellspawn_kernel_pixel" remote="pdp" />
 
   <!-- Vendor -->
+  <project path="vendor/google_devices" name="BenzoRom/vendor_google_devices" remote="gh" revision="ninezero" />
 
 </manifest>
