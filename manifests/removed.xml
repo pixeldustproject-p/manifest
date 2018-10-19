@@ -86,12 +86,18 @@
   <remove-project name="platform/packages/apps/Messaging" />
   <remove-project name="platform/packages/apps/Calendar" />
   <remove-project name="platform/packages/apps/ExactCalculator" />
+  <remove-project name="platform/packages/apps/Nfc" />
+
+  <!-- Providers repos -->
+  <remove-project name="platform/packages/providers/DownloadProvider" />
 
   <!-- Service repos -->
+  <remove-project name="platform/packages/services/Telecomm" />
   <remove-project name="platform/packages/services/Telephony" />
 
   <!-- System repos -->
   <remove-project name="platform/system/core" />
+  <remove-project name="platform/system/sepolicy" />
 
   <!-- Prebuilt repos -->
   <remove-project name="platform/prebuilts/build-tools" />
