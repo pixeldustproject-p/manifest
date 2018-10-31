@@ -47,6 +47,11 @@
   <!-- External repos -->
   <remove-project name="platform/external/selinux" />
   <remove-project name="platform/external/perfetto" />
+  <remove-project name="platform/external/e2fsprogs" />
+  <remove-project name="platform/external/elfutils" />
+  <remove-project name="platform/external/f2fs-tools" />
+  <remove-project name="platform/external/libtextclassifier" />
+  <remove-project name="platform/external/tinycompress" />
 
   <!-- Framework repos -->
   <remove-project name="platform/frameworks/av" />
@@ -66,6 +71,13 @@
   <remove-project name="platform/hardware/qcom/media" />
   <remove-project name="platform/hardware/libhardware" />
   <remove-project name="platform/hardware/qcom/wlan"/>
+  <remove-project name="platform/hardware/broadcom/libbt" />
+  <remove-project name="platform/hardware/broadcom/wlan" />
+  <remove-project name="platform/hardware/libhardware_legacy" />
+  <remove-project name="platform/hardware/nxp/nfc" />
+  <remove-project name="platform/hardware/qcom/data/ipacfg-mgr" />
+  <remove-project name="platform/hardware/qcom/power" />
+  <remove-project name="platform/hardware/ril" />
 
   <!-- Package repos -->
   <remove-project name="platform/packages/apps/Browser2" />
@@ -96,18 +108,15 @@
   <remove-project name="platform/packages/services/Telephony" />
 
   <!-- System repos -->
+  <remove-project name="platform/system/bt" />
   <remove-project name="platform/system/core" />
+  <remove-project name="platform/system/netd" />
+  <remove-project name="platform/system/tools/hidl" />
+  <remove-project name="platform/system/vold" />
   <remove-project name="platform/system/sepolicy" />
 
   <!-- Prebuilt repos -->
   <remove-project name="platform/prebuilts/build-tools" />
-  <remove-project name="platform/prebuilts/clang/host/darwin-x86" />
-  <remove-project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" />
-  <remove-project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9" />
-  <remove-project name="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" />
-  <remove-project name="platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9" />
-  <remove-project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" />
-  <remove-project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" />
-  <remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" />
+  <remove-project name="platform/prebuilts/clang/host/linux-x86" />
 
 </manifest>
