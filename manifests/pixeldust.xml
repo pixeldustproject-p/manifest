@@ -65,6 +65,7 @@
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="lineage" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="lineage" />
   <project path="hardware/ril" name="android_hardware_ril" remote="lineage" />
+  <project path="hardware/ril-caf" name="android_hardware_ril" revision="lineage-16.0-caf" remote="lineage" />
   <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt" remote="lineage" />
   <project path="hardware/broadcom/nfc" name="android_hardware_broadcom_nfc" remote="lineage" />
   <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" remote="lineage" />
@@ -83,6 +84,7 @@
 
   <!-- Frameworks repos -->
   <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" remote="lineage" />
+  <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="lineage" />
 
   <!-- External repos -->
   <project path="external/ant-wireless/ant_native" name="android_external_ant-wireless_ant_native" remote="lineage" />
