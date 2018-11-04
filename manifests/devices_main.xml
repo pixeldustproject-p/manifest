@@ -13,5 +13,6 @@
 
   <!-- Vendor -->
   <project path="vendor/google_devices" name="BenzoRom/vendor_google_devices" remote="gh" revision="ninezero" />
+  <project path="vendor/google" name="android_vendor_google" remote="pdp" />
 
 </manifest>
