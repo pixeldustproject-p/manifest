@@ -68,6 +68,7 @@
   <remove-project name="platform/hardware/qcom/keymaster" />
   <remove-project name="platform/hardware/qcom/media" />
   <remove-project name="platform/hardware/libhardware" />
+  <remove-project name="platform/hardware/qcom/sdm845/display"/>
   <remove-project name="platform/hardware/qcom/wlan"/>
 
   <!-- Package repos -->
