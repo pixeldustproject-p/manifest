@@ -38,6 +38,7 @@
   <project path="frameworks/av" name="android_frameworks_av" remote="pdp" />
   <project path="frameworks/native" name="android_frameworks_native" remote="pdp" />
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="pdp" />
+  <project path="packages/providers/AmbientPlayHistoryProvider" name="android_packages_providers_AmbientPlayHistoryProvider" remote="pdp" />
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="pdp" />
   <project path="packages/apps/Browser" name="android_packages_apps_Browser" remote="pdp" />
   <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="pdp" />
