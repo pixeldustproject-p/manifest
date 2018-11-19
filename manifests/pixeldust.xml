@@ -49,7 +49,6 @@
   <project path="packages/apps/Pulse" name="android_packages_apps_Pulse" remote="pdp" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="pdp" />
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="pdp" />
-  <project path="packages/services/OmniJaws" name="android_packages_services_OmniJaws" remote="pdp" />
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="pdp" />
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="pdp" />
   <project path="system/core" name="android_system_core" remote="pdp" />
