@@ -102,6 +102,7 @@
   <remove-project name="platform/packages/apps/Calendar" />
   <remove-project name="platform/packages/apps/ExactCalculator" />
   <remove-project name="platform/packages/apps/Nfc" />
+  <remove-project name="platform/packages/inputmethods/LatinIME" />
 
   <!-- Providers repos -->
   <remove-project name="platform/packages/providers/DownloadProvider" />
