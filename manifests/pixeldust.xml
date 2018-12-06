@@ -39,7 +39,7 @@
   <project path="frameworks/native" name="android_frameworks_native" remote="pdp" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="pdp" />
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="pdp" />
-  <project path="hardware/custom/interfaces" name="android_hardware_custom_interfaces" remote="pdp"revision="p-caf" />
+  <project path="hardware/custom/interfaces" name="android_hardware_custom_interfaces" remote="pdp" revision="p-caf" />
   <project path="hardware/ril" name="android_hardware_ril" remote="pdp" />
   <project path="hardware/qcom/power" name="android_hardware_qcom_power" remote="pdp" />
   <project path="packages/providers/AmbientPlayHistoryProvider" name="android_packages_providers_AmbientPlayHistoryProvider" remote="pdp" />
@@ -94,6 +94,8 @@
   <project path="hardware/qcom/fm" name="android_hardware_qcom_fm" remote="lineage" />
   <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" remote="lineage" />
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="lineage" />
+  <project path="hardware/qcom/thermal" name="android_hardware_qcom_thermal" remote="lineage" />
+  <project path="hardware/qcom/vr" name="android_hardware_qcom_vr" remote="lineage" />
   <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="lineage" />
   <project path="hardware/qcom/wlan-caf" name="android_hardware_qcom_wlan" revision="lineage-16.0-caf" remote="lineage" />
 
@@ -117,7 +119,7 @@
   <project path="external/tinycompress" name="android_external_tinycompress" remote="lineage" />
 
   <!-- Packages repos -->
-  <project path="packages/apps/CarrierConfig" name="android_packages_apps_CarrierConfig" remote="lineage" />  <project path="packages/apps/CarrierConfig" name="android_packages_apps_CarrierConfig" remote="lineage" />
+  <project path="packages/apps/CarrierConfig" name="android_packages_apps_CarrierConfig" remote="lineage" />
 
   <!-- System repos -->
   <project path="system/bt" name="android_system_bt" remote="lineage" />
@@ -126,7 +128,6 @@
   <project path="system/tools/hidl" name="android_system_tools_hidl" remote="lineage" />
 
   <!-- CodeAurora vendor repos -->
-  <project path="vendor/qcom/opensource/cryptfs_hw" name="android_vendor_qcom_opensource_cryptfs_hw" remote="lineage" />
   <project path="vendor/nxp/opensource/interfaces/nfc" name="android_vendor_nxp_interfaces_opensource_nfc" remote="lineage" />
   <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="android_vendor_nxp_opensource_external_libnfc-nci" remote="lineage" />
   <project path="vendor/nxp/opensource/commonsys/frameworks" name="android_vendor_nxp_opensource_frameworks" remote="lineage" />
@@ -136,5 +137,6 @@
   <project path="vendor/qcom/opensource/audio" name="android_vendor_qcom_opensource_audio" remote="lineage" />
   <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="lineage" />
   <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" remote="lineage" />
+  <project path="vendor/qcom/opensource/thermal-engine" name="android_vendor_qcom_opensource_thermal-engine" remote="lineage" />
 
 </manifest>
