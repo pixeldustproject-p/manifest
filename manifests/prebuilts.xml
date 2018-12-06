@@ -6,7 +6,6 @@
 
   <!-- Prebuilts -->
   <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="lineage" clone-depth="1" />
-  <project path="prebuilts/clang/host/linux-x86" name="PixelExperience/prebuilts_clang_host_linux-x86" remote="gh" revision="pie" clone-depth="1" />
   <project path="vendor/qcom/sdclang-6.0" name="vendor_qcom_sdclang-6.0" remote="pdp" />
 
 </manifest>
