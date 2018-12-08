@@ -55,7 +55,7 @@
   <project path="packages/apps/PixelDustOTA" name="android_packages_apps_PixelDustOTA" remote="pdp" />
   <project path="packages/apps/PixelDustSettings" name="android_packages_apps_PixelDustSettings" remote="pdp" />
   <project path="packages/apps/PixelDustWallpapers" name="android_packages_apps_PixelDustWallpapers" remote="pdp" />
-  <project path="packages/apps/Pulse" name="android_packages_apps_Pulse" remote="pdp" />
+  <project path="packages/apps/SmartNav" name="android_packages_apps_SmartNav" remote="pdp" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="pdp" />
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="pdp" />
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="pdp" />
