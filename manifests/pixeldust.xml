@@ -62,7 +62,7 @@
   <project path="system/vold" name="android_system_vold" remote="pdp" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="pdp" />
   <project path="vendor/pixeldust" name="android_vendor_pixeldust" remote="pdp" />
-  <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="pdp" revision="p-caf" />
+  <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="pdp" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="android_vendor_qcom_opensource_cryptfs_hw" remote="pdp" />
 
   <!-- LineageOS repos -->
