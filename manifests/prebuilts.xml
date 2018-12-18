@@ -5,7 +5,7 @@
            fetch="https://gitlab.com/spezi77/" />
 
   <!-- Prebuilts -->
-  <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="lineage" clone-depth="1" />
+  <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="pdp" />
   <project path="vendor/qcom/sdclang-6.0" name="vendor_qcom_sdclang-6.0" remote="pdp" />
 
 </manifest>

@@ -72,10 +72,6 @@
   <project path="hardware/qcom/display-caf/msm8916" name="android_hardware_qcom_display" revision="lineage-16.0-caf-8916" remote="lineage" />
   <project path="hardware/qcom/media-caf/msm8916" name="android_hardware_qcom_media" revision="lineage-16.0-caf-8916" remote="lineage" />
 
-  <!-- General repos -->
-  <project path="art" name="android_art" remote="lineage" />
-  <project path="development" name="android_development" remote="lineage" />
-
   <!-- Hardware repos -->
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="lineage" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="lineage" />
@@ -139,3 +135,6 @@
   <project path="vendor/qcom/opensource/thermal-engine" name="android_vendor_qcom_opensource_thermal-engine" remote="lineage" />
 
 </manifest>
+
+
+
