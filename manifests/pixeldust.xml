@@ -36,6 +36,7 @@
   <project path="external/selinux" name="android_external_selinux" remote="pdp" />
   <project path="frameworks/base" name="android_frameworks_base" remote="pdp" />
   <project path="frameworks/av" name="android_frameworks_av" remote="pdp" />
+  <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" remote="pdp" />
   <project path="frameworks/native" name="android_frameworks_native" remote="pdp" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="pdp" />
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="pdp" />
@@ -95,7 +96,6 @@
   <project path="hardware/qcom/wlan-caf" name="android_hardware_qcom_wlan" revision="lineage-16.0-caf" remote="lineage" />
 
   <!-- Frameworks repos -->
-  <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" remote="lineage" />
   <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="lineage" />
 
   <!-- External repos -->
