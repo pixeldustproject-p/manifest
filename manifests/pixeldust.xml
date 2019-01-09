@@ -38,6 +38,7 @@
   <project path="frameworks/av" name="android_frameworks_av" remote="pdp" />
   <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" remote="pdp" />
   <project path="frameworks/native" name="android_frameworks_native" remote="pdp" />
+  <project path="frameworks/opt/slimrecent" name="android_frameworks_opt_slimrecent" remote="pdp" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="pdp" />
   <project path="frameworks/pixeldust" name="android_frameworks_pixeldust" remote="pdp" />
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="pdp" />
