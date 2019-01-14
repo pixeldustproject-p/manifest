@@ -12,7 +12,7 @@
   <project path="kernel/google/wahoo" name="android_kernel_google_wahoo" remote="pdp" />
 
   <!-- Vendor -->
-  <project path="vendor/google_devices" name="BenzoRom/vendor_google_devices" remote="gh" revision="ninezero" />
+  <project path="vendor/google_devices" name="android_vendor_google_pixels" remote="pdp" />
   <project path="vendor/google" name="android_vendor_google" remote="pdp" />
 
   <!-- Shamu -->
