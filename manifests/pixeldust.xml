@@ -25,6 +25,7 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
+  <project path="art" name="android_art" remote="pdp" />
   <project path="bionic" name="android_bionic" remote="pdp" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="pdp" />
   <project path="external/arm-optimized-routines" name="android_external_arm-optimized-routines" remote="pdp" />

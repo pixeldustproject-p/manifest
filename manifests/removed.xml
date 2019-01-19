@@ -41,6 +41,7 @@
   <remove-project name="kernel/tests" />
 
   <!-- General repos -->
+  <remove-project name="platform/art" />
   <remove-project name="platform/build" />
   <remove-project name="platform/build/soong" />
   <remove-project name="platform/bionic" />
