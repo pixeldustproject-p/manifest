@@ -57,6 +57,7 @@
   <remove-project name="platform/frameworks/compile/mclinker" />
   <remove-project name="platform/frameworks/native" />
   <remove-project name="platform/frameworks/opt/telephony" />
+  <remove-project name="platform/frameworks/opt/net/wifi" />
 
   <!-- Hardware repos -->
   <remove-project name="platform/hardware/qcom/audio" />

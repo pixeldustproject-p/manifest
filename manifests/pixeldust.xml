@@ -36,6 +36,7 @@
   <project path="frameworks/native" name="android_frameworks_native" remote="pdp" />
   <project path="frameworks/opt/slimrecent" name="android_frameworks_opt_slimrecent" remote="pdp" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="pdp" />
+  <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="pdp" />
   <project path="frameworks/pixeldust" name="android_frameworks_pixeldust" remote="pdp" />
   <project path="hardware/custom/interfaces" name="android_hardware_custom_interfaces" remote="pdp" />
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="pdp" />
