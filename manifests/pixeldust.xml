@@ -49,6 +49,7 @@
   <project path="hardware/qcom/power" name="android_hardware_qcom_power" remote="pdp" />
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="pdp" />
   <project path="packages/apps/Browser" name="android_packages_apps_Browser" remote="pdp" />
+  <project path="packages/apps/CustomDoze" name="android_packages_apps_CustomDoze" remote="pdp" />
   <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="pdp" />
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="pdp" />
   <project path="packages/apps/PixelDustOTA" name="android_packages_apps_PixelDustOTA" remote="pdp" />
