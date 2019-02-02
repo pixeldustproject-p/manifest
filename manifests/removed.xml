@@ -94,6 +94,8 @@
   <remove-project name="platform/packages/apps/ExactCalculator" />
   <remove-project name="platform/packages/apps/Nfc" />
   <remove-project name="platform/packages/inputmethods/LatinIME" />
+  <remove-project name="platform/packages/apps/Gallery" />
+  <remove-project name="platform/packages/apps/Gallery2" />
 
   <!-- Providers repos -->
   <remove-project name="platform/packages/providers/DownloadProvider" />
