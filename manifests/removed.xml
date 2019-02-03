@@ -96,6 +96,7 @@
   <remove-project name="platform/packages/inputmethods/LatinIME" />
   <remove-project name="platform/packages/apps/Gallery" />
   <remove-project name="platform/packages/apps/Gallery2" />
+  <remove-project name="platform/packages/apps/DeskClock" />
 
   <!-- Providers repos -->
   <remove-project name="platform/packages/providers/DownloadProvider" />
