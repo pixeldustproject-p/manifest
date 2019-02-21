@@ -18,6 +18,6 @@
   <!-- Shamu -->
   <project path="device/moto/shamu" name="android_device_moto_shamu" remote="pdp" />
   <project path="kernel/moto/shamu" name="android_kernel_moto_shamu" remote="pdp" />
-  <project path="vendor/motorola" name="android_vendor_motorola" remote="pdp" />
+  <project path="vendor/moto" name="android_vendor_moto" remote="pdp" />
 
 </manifest>
