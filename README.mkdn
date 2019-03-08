@@ -9,7 +9,8 @@ To initialize your local repository use
     
 Then to sync up:
 
-    "repo sync -jX" where X is the number of cores in your CPU
+    "repo sync -c -jx --force-sync --no-clone-bundle --no-tags" 
+    where X is the number of cores in your CPU (This method saves space on the host drive)
 
 ## Building ##
 
