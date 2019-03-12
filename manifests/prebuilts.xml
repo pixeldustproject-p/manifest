@@ -13,6 +13,7 @@
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="aarch64-linux-android-4.9" remote="glab" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="arm-linux-androideabi-4.9" remote="glab" revision="master" />
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-8.0" name="aarch64-8.0" remote="glab" revision="linaro" />
+  <project path="prebuilts/clang/host/linux-x86" name="prebuilts_clang_host_linux-x86" remote="pdp" />
   <project path="prebuilts/clang/host/linux-x86/clang-9.0" name="clang-9.0" remote="king" revision="master" />
 
 </manifest>
