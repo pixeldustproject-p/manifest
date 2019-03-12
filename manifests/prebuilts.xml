@@ -3,6 +3,8 @@
 
   <remote  name="glab"
            fetch="https://gitlab.com/spezi77/" />
+  <remote  name="king"
+           fetch="https://github.com/bdashore3/" />
 
   <!-- Prebuilts -->
   <project path="vendor/googleapps" name="vendor_googleapps" remote="glab" revision="p" />
@@ -11,5 +13,6 @@
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="aarch64-linux-android-4.9" remote="glab" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="arm-linux-androideabi-4.9" remote="glab" revision="master" />
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-8.0" name="aarch64-8.0" remote="glab" revision="linaro" />
+  <project path="prebuilts/clang/host/linux-x86/clang-9.0" name="clang-9.0" remote="king" revision="master" />
 
 </manifest>
