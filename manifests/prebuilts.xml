@@ -7,5 +7,6 @@
   <!-- Prebuilts -->
   <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="pdp" />
   <project path="vendor/qcom/sdclang-6.0" name="vendor_qcom_sdclang-6.0" remote="pdp" />
+  <project path="prebuilts/clang/host/linux-x86" name="prebuilts_clang_host_linux-x86" remote="pdp" />
 
 </manifest>
