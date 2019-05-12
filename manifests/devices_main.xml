@@ -4,7 +4,7 @@
   <!-- Device & Kernel -->
   <!-- Marlin -->
   <project path="device/google/marlin" name="android_device_google_marlin" remote="pdp" />
-  <project path="kernel/google/marlin" name="King-Kernel/KingKernel-marlin" remote="gh" revision="inline" />
+  <project path="kernel/google/marlin" name="King-Kernel/KingKernel-marlin" remote="gh" revision="personal-rebase" />
 
   <!-- Taimen -->
   <project path="device/google/taimen" name="android_device_google_taimen" remote="pdp" />
